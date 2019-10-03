@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Getting Acquainted With Coding"
-date:       2019-10-03 00:46:45 +0000
+date:       2019-10-02 20:46:45 -0400
 permalink:  getting_acquainted_with_coding
 ---
 
