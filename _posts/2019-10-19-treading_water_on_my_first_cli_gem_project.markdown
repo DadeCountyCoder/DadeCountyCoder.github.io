@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      " "treading water on my first cli gem project"."
-date:       2019-10-19 16:05:56 +0000
+title:      " "Treading water on my first Cli Gem Project"."
+date:       2019-10-19 12:05:57 -0400
 permalink:  treading_water_on_my_first_cli_gem_project
 ---
 
