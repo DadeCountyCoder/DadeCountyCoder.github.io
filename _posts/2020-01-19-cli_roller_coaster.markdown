@@ -1,0 +1,10 @@
+---
+layout: post
+title:      "cli roller coaster ."
+date:       2020-01-20 04:09:37 +0000
+permalink:  cli_roller_coaster
+---
+
+
+What a frightening and thrilling ride, so many ups and downs this whole process was exhausting. I was very nervous coming up to the cli project, I always feel like I'm playing catch up due to being behind on my labs and having a lot of personal troubles, which we all have do.I found myself  trying read whatever i could get my hands on even if i knew i wouldnt undertand it. I mustve watched Avi's cli walkthrough 50x trying make sense of it and if anything i felt more confused due to i found myself watching 3 diff videos at the same time ! Whattt was I thinking jumping back and forth between them all trying hold onto my sanity.A close friend told me to try breaking the project down into smaller parts which was a great help especially when it came to looking at the errors.Otherwise normally I would've instead freaked out and contemplated throwing the laptop out the window lol! I came across the error undefined method so many times i might have to give my next kid that name. Looking up examples on youtube videos is such a great resource but can aslo be a huge hinderence.There is such a thing as too much of a good thing...there's so many different ways you can code and solve the same problem that it can be a bit overwhelming! Project time was definitely rough for me to say the least but in that process you learn about yourself.You learn how when you feel your at your limit and you wanna throw in the towel you find a spark of hope whether it be the thought of being able to provide a better life for your children or a positive nudge from one of your friends.You also gotta take pride in all of your victories even if they are small ones like realizing your missing an end, or a closing quote in your require/enviorment file.This is not an easy thing to pick up, i was told once learning coding from new is like being dropped into a new country and trying to learn their language. but with alot of hope and a little luck i'll get there, just gotta remember you know more than you think you know.
+
